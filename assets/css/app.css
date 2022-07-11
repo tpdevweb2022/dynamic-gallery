@@ -17,3 +17,10 @@ img {
   max-width: 100%;
   padding: 1rem;
 }
+
+.annex img:hover {
+  cursor: pointer;
+}
+.inactive {
+  opacity: 0.5 !important;
+}
